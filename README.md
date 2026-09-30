@@ -1,10 +1,10 @@
-# KU-CampusBite — Introduction to Management
+# KU-CampusBite — Software Project Management
 
 ## Overview
 
 **KU-CampusBite** is a university project designed to improve the campus food ordering and delivery experience for students at the University of Karachi.
 
-This repository contains the project documentation prepared for the **Introduction to Management** course. It covers different management and project planning activities carried out throughout the project.
+This repository contains the project documentation prepared for the **Software Project Management** course. It covers different management and project planning activities carried out throughout the project.
 
 ## Documentation Included
 
@@ -42,7 +42,7 @@ The purpose of this repository is to organize the complete documentation of KU-C
 
 ## Course
 
-**Introduction to Management**
+**Software Project Management**
 
 ## Institution
 
